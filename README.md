@@ -1,2 +1,6 @@
-# helloe-world
+# hello-world
 Mijn eerste projectje op GitHub - long time no see the world though...
+
+I have been coding in Basic, Fortran, Pascal and a lot of shell scripting to make fully automated workflows for UX based CAE systems. I always enjoyed coding and testing especially in c-shell since it goes so fast and some commands are so powerful.
+
+Now I'm going to take up the thread where I left it...
